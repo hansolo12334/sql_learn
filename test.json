@@ -1,0 +1,75 @@
+{
+  "status": 1,
+  "info": "OK",
+  "data": {
+    "info": {
+    "id": 10374,
+    "cnname": "2009年第61届艾美奖颁奖典礼",
+    "enname": "61st Primetime Emmy Awards",
+    "aliasname": "",
+    "channel": "tv",
+    "channel_cn": "美剧",
+    "area": "美国",
+    "show_type": "",
+    "expire": "1610371624",
+    "views": "0"
+    },
+    "list": [
+      {
+        "season_num": "101",
+        "season_cn": "单剧",
+        "items": {
+        "RMVB": [
+            {
+              "itemid": "76285",
+              "episode": "0",
+              "name": "第61届艾美奖颁奖典礼.The.61st.Emmy.Awards.CN.HDTVrip.CD2.624X352.YYeTs人人影视.rmvb",
+              "size": "294.47MB",
+              "yyets_trans": 0,
+              "dateline": "1342111868",
+              "files": [
+                {
+                  "way": "1",
+                  "way_cn": "电驴",
+                  "address": "ed2k://|file|%E7%AC%AC61%E5%B1%8A%E8%89%BE%E7%BE%8E%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC.The.61st.Emmy.Awards.CN.HDTVrip.CD2.624X352.YYeTs%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.rmvb|308771804|9D5986A705B9CFA096498B345B38FD02|h=4GJRW5HQB62QZ633OIVOU2YTVQKBUL2L|/",
+                  "passwd": ""
+                },
+                {
+                  "way": "9",
+                  "way_cn": "网盘",
+                  "address": "http://page90.ctfile.com/fs/Nve154438379",
+                  "passwd": ""
+                }
+              ]
+            },
+            {
+              "itemid": "76284",
+              "episode": "0",
+              "name": "第61届艾美奖颁奖典礼.The.61st.Emmy.Awards.CN.HDTVrip.CD1.624X352.YYeTs人人影视.rmvb",
+              "size": "289.63MB",
+              "yyets_trans": 0,
+              "dateline": "1342111834",
+              "files": [
+                {
+                  "way": "1",
+                  "way_cn": "电驴",
+                  "address": "ed2k://|file|%E7%AC%AC61%E5%B1%8A%E8%89%BE%E7%BE%8E%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC.The.61st.Emmy.Awards.CN.HDTVrip.CD1.624X352.YYeTs%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.rmvb|303695638|F208C9507A4CB28A33EC23F16649C2A0|h=26SWB7PIH3BVRGNUBNQD47FK6ND32W6Y|/",
+                  "passwd": ""
+                },
+                {
+                  "way": "9",
+                  "way_cn": "网盘",
+                  "address": "http://page90.ctfile.com/fs/FpL154438376",
+                  "passwd": ""
+                }
+              ]
+            }
+          ]
+        },
+        "formats": [
+          "RMVB"
+        ]
+      }
+    ]
+  }
+}

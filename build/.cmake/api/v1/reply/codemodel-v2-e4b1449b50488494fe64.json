@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sql_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-5c97a8a54baee6df6f5d.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_autogen-Debug-ef5abfdf814598565064.json",
+					"name" : "main_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_sql::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_sql-Debug-43131e0b5db3d47f9352.json",
+					"name" : "test_sql",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_sql_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_sql_autogen-Debug-cb780546d4e83ec58036.json",
+					"name" : "test_sql_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_sql_rrys::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_sql_rrys-Debug-dc4a79038b58a3ffb8b3.json",
+					"name" : "test_sql_rrys",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_sql_rrys_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_sql_rrys_autogen-Debug-8ee82cecc103d2e6cc49.json",
+					"name" : "test_sql_rrys_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hansolo/CplusplusLearn/sql/build",
+		"source" : "/home/hansolo/CplusplusLearn/sql"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

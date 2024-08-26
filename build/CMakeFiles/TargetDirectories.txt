@@ -1,0 +1,8 @@
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/main.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/test_sql.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/test_sql_rrys.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/edit_cache.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/rebuild_cache.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/main_autogen.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/test_sql_autogen.dir
+/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/test_sql_rrys_autogen.dir

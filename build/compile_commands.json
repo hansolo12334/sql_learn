@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/main_autogen/include -I/home/hansolo/CplusplusLearn/sql/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtPrintSupport -g -fPIC -o CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.o -c /home/hansolo/CplusplusLearn/sql/build/main_autogen/mocs_compilation.cpp",
+  "file": "/home/hansolo/CplusplusLearn/sql/build/main_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/main_autogen/include -I/home/hansolo/CplusplusLearn/sql/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtPrintSupport -g -fPIC -o CMakeFiles/main.dir/src/main.cc.o -c /home/hansolo/CplusplusLearn/sql/src/main.cc",
+  "file": "/home/hansolo/CplusplusLearn/sql/src/main.cc"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/main_autogen/include -I/home/hansolo/CplusplusLearn/sql/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtPrintSupport -g -fPIC -o CMakeFiles/main.dir/src/interFace.cc.o -c /home/hansolo/CplusplusLearn/sql/src/interFace.cc",
+  "file": "/home/hansolo/CplusplusLearn/sql/src/interFace.cc"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/main_autogen/include -I/home/hansolo/CplusplusLearn/sql/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtPrintSupport -g -fPIC -o CMakeFiles/main.dir/src/myPushButton.cc.o -c /home/hansolo/CplusplusLearn/sql/src/myPushButton.cc",
+  "file": "/home/hansolo/CplusplusLearn/sql/src/myPushButton.cc"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/main_autogen/include -I/home/hansolo/CplusplusLearn/sql/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtPrintSupport -g -fPIC -o CMakeFiles/main.dir/src/mysqlDataBase.cc.o -c /home/hansolo/CplusplusLearn/sql/src/mysqlDataBase.cc",
+  "file": "/home/hansolo/CplusplusLearn/sql/src/mysqlDataBase.cc"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/test_sql_autogen/include -g -o CMakeFiles/test_sql.dir/test_sql_autogen/mocs_compilation.cpp.o -c /home/hansolo/CplusplusLearn/sql/build/test_sql_autogen/mocs_compilation.cpp",
+  "file": "/home/hansolo/CplusplusLearn/sql/build/test_sql_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/test_sql_autogen/include -g -o CMakeFiles/test_sql.dir/test_sql.cc.o -c /home/hansolo/CplusplusLearn/sql/test_sql.cc",
+  "file": "/home/hansolo/CplusplusLearn/sql/test_sql.cc"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/test_sql_rrys_autogen/include -g -o CMakeFiles/test_sql_rrys.dir/test_sql_rrys_autogen/mocs_compilation.cpp.o -c /home/hansolo/CplusplusLearn/sql/build/test_sql_rrys_autogen/mocs_compilation.cpp",
+  "file": "/home/hansolo/CplusplusLearn/sql/build/test_sql_rrys_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/hansolo/CplusplusLearn/sql/build",
+  "command": "/usr/local/bin/g++ -I/home/hansolo/CplusplusLearn/sql/build -I/home/hansolo/CplusplusLearn/sql -I/home/hansolo/CplusplusLearn/sql/build/test_sql_rrys_autogen/include -g -o CMakeFiles/test_sql_rrys.dir/test_sql_rrys.cc.o -c /home/hansolo/CplusplusLearn/sql/test_sql_rrys.cc",
+  "file": "/home/hansolo/CplusplusLearn/sql/test_sql_rrys.cc"
+}
+]

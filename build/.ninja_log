@@ -1,0 +1,25 @@
+# ninja log v5
+260	2149	1724377839758820621	CMakeFiles/main.dir/src/mysqlDataBase.cc.o	275cb3878887804a
+3	7	0	/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/test_sql_rrys_autogen	ee72e4c378ce0ba6
+270	4016	1724664666704894013	CMakeFiles/main.dir/src/main.cc.o	b53884e35caca02d
+2	8	0	/home/hansolo/CplusplusLearn/sql/build/main_autogen/mocs_compilation.cpp	2aace9eff1a86a6e
+3	7	0	test_sql_rrys_autogen/mocs_compilation.cpp	ee72e4c378ce0ba6
+725	1020	1724228201538330194	test_sql_rrys	1e19d9f4b058070d
+2	8	0	main_autogen/mocs_compilation.cpp	2aace9eff1a86a6e
+2	7	0	CMakeFiles/test_sql_autogen	ed8d0333094cedcf
+2	8	0	/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/main_autogen	2aace9eff1a86a6e
+3	7	0	CMakeFiles/test_sql_rrys_autogen	ee72e4c378ce0ba6
+3	7	0	/home/hansolo/CplusplusLearn/sql/build/test_sql_rrys_autogen/mocs_compilation.cpp	ee72e4c378ce0ba6
+87	115	1723944648916533953	CMakeFiles/test_sql.dir/test_sql_autogen/mocs_compilation.cpp.o	d6b22f23961333b0
+9	725	1724228201238330266	CMakeFiles/test_sql_rrys.dir/test_sql_rrys.cc.o	d59ec3d5df189d6c
+5368	5981	1724666296994684195	main	d2bc2e54df08b1d1
+2	7	0	/home/hansolo/CplusplusLearn/sql/build/test_sql_autogen/mocs_compilation.cpp	ed8d0333094cedcf
+8	5368	1724666296374684276	CMakeFiles/main.dir/src/interFace.cc.o	ee7b8da30b047f6f
+7	2131	1723968183050474918	CMakeFiles/test_sql.dir/test_sql.cc.o	5c105dd6e780044d
+2	7	0	test_sql_autogen/mocs_compilation.cpp	ed8d0333094cedcf
+2	7	0	/home/hansolo/CplusplusLearn/sql/build/CMakeFiles/test_sql_autogen	ed8d0333094cedcf
+128	2221	1724661326595325430	CMakeFiles/main.dir/src/myPushButton.cc.o	e33fc9cee5b2e43a
+2131	2410	1723968183330474868	test_sql	996d9923358a5e62
+2	8	0	CMakeFiles/main_autogen	2aace9eff1a86a6e
+270	4243	1724664666924893984	CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.o	69a7d8c9035c5783
+76	105	1724224542239223140	CMakeFiles/test_sql_rrys.dir/test_sql_rrys_autogen/mocs_compilation.cpp.o	72afa8395161f593
